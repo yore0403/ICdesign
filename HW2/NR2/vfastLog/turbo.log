@@ -1,0 +1,2 @@
+Command Line: /usr/spring_soft/verdi/cur/platform/LINUXAMD64/bin/vfast -silent -del / -o /home/raid7_2/userb05/b05084/ICdesign/HW2_2018/ND2/ND2.tr0.fsdb -ft spice /home/raid7_2/userb05/b05084/ICdesign/HW2_2018/ND2/ND2.tr0
+uname(Linux cad41 2.6.32-573.el6.x86_64 #1 SMP Thu Jul 23 15:44:03 UTC 2015 x86_64)

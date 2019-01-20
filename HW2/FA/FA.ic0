@@ -1,0 +1,29 @@
+* "simulator" "HSPICE" 
+* "version" "N-2017.12 linux64"
+* "format" "HSP"
+* "rundate" "00:18:08 10/27/2018 "
+* "netlist" "FA.sp "
+* "runtitle" "*********************************************"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ co = 877.6501n       
++ dvdd =   1.0000        
++ ina =   0.            
++ inb =   0.            
++ inc =   0.            
++ s =  21.4840u       
++ x1.o1 =  54.5896m       
++ x1.o2 = 999.9994m       
++ x1.out1 =  39.7048m       
++ x1.out2 = 999.9992m       
++ x1.out3 = 999.9996m       
++ x2.o1 = 890.6840m       
++ x2.out01 = 999.9925m       
++ x2.out02 = 999.9869m       
++ x2.out03 = 890.6840m       
++ x2.out04 = 999.9979m       
+***   END: Saved Operating Point ***                     

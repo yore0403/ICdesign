@@ -1,0 +1,20 @@
+* "simulator" "HSPICE" 
+* "version" "N-2017.12 linux64"
+* "format" "HSP"
+* "rundate" "01:37:40 10/25/2018 "
+* "netlist" "OR2.sp "
+* "runtitle" "*********************************************"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ dvdd =   1.8000        
++ in1 =   0.            
++ in2 =   0.            
++ out =   2.6822u       
++ x1.mm1 =   0.            
++ x1.mm2 = 900.0000m       
++ x1.out1 =   1.8000        
+***   END: Saved Operating Point ***                     
